@@ -1,1 +1,1 @@
-# mynew.github.io-app-ads.txt
+# mynew.github.io/app-ads.txt
